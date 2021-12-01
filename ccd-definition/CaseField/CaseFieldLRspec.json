@@ -762,5 +762,20 @@
     "HintText": "For example 9 December 2020",
     "FieldType": "RespondToClaimAdmitPartLRspec",
     "SecurityClassification": "Public"
+  },
+  {
+    "CaseTypeID": "CIVIL",
+    "ID": "homeOptionsLRspec",
+    "Label": " ",
+    "FieldType": "FixedRadioList",
+    "FieldTypeParameter": "HomeOption",
+    "SecurityClassification": "Public"
+  },
+  {
+    "CaseTypeID": "CIVIL",
+    "ID": "homeOtherSpecificLRspec",
+    "Label": "What type of housing",
+    "FieldType": "Text",
+    "SecurityClassification": "Public"
   }
 ]

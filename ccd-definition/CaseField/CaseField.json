@@ -981,20 +981,5 @@
     "FieldType": "DynamicList",
     "SecurityClassification": "Public",
     "_Comments": "This field type should change to 'DynamicRadioList when EUI supports this"
-  },
-  {
-    "CaseTypeID": "CIVIL",
-    "ID": "homeOptions",
-    "Label": "",
-    "FieldType": "FixedRadioList",
-    "FieldTypeParameter": "HomeOption",
-    "SecurityClassification": "Public"
-  },
-  {
-    "CaseTypeID": "CIVIL",
-    "ID": "homeOtherSpecific",
-    "Label": "What type of housing",
-    "FieldType": "Text",
-    "SecurityClassification": "Public"
   }
 ]
